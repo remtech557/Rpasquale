@@ -1,0 +1,10 @@
+flask
+flask-cors
+transformers
+torch>=2.0.0
+torchvision
+torchaudio
+flask-session 
+beautifulsoup4
+accelerate
+requests
